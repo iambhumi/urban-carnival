@@ -4,4 +4,4 @@ Designed to captivate visitors with stunning visuals and intuitive navigation, t
 Whether developer looking for inspiration, or a marketer seeking a polished example, dive into the code and elevate your web design game with this dynamic Nike shoes landing page.
 
  Here is the link given for quick approach of the website -
-http://127.0.0.1:3000/c:/Users/Hp/OneDrive/Desktop/web/shoes.html#
+https://iambhumi.github.io/urban-carnival/
